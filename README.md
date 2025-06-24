@@ -27,7 +27,7 @@ Throughout my career, I've focused on creating tangible impact by bridging the g
 
 My intellectual curiosity keeps me constantly learning. Right now, I'm diving deep into:
 
-- **The Frontier of Model Efficiency with Tiny LLMs:** I'm incredibly excited by the potential of small, hyper-efficient models. With my **NVIDIA RTX 6000 (Blackwell Generation) GPU**, I'm actively experimenting with aggressive **FP4 quantization**. My goal is to develop powerful, task-specific models with a minimal memory footprint, unlocking blazing-fast inference speeds suitable for real-time production environments.
+- **The Frontier of Model Efficiency with Tiny LLMs:** I'm incredibly excited by the potential of small, hyper-efficient models. With my **NVIDIA RTX PRO 6000 Blackwell 96GB GPU**, I'm actively experimenting with aggressive **FP4 quantization**. My goal is to develop powerful, task-specific models with a minimal memory footprint, unlocking blazing-fast inference speeds suitable for real-time production environments.
 - **Complex Document QA:** Designing processes to help AI agents extract and answer questions from complex documents, enhancing information retrieval and decision-making for users.
 - **Synthetic Data Generation:** Establishing baseline methods and frameworks for generating high-quality synthetic question-and-answer pairs to augment training datasets.
 
