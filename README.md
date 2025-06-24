@@ -14,8 +14,8 @@ Currently, as a **Senior Data Scientist at Capital One**, my primary focus is on
 
 Throughout my career, I've focused on creating tangible impact by bridging the gap between research and production.
 
-- **🏆 1st Place Winner, ElevenLabs Worldwide Hackathon:** Co-developed "Read Along," a production-ready application that secured first place. The tool transforms blog posts into interactive audio experiences with real-time text highlighting, leveraging ElevenLabs for voice generation and OpenAI for summarization.
-- **💡 Innovator at Microsoft AI Agents Hackathon:** Architected and documented "BabyAGI with Tools," a complex multi-agent system designed to solve long-running tasks by dynamically using a toolbox of specialized AI agents. This project demonstrates a deep dive into autonomous agent collaboration and architecture.
+- **🏆 1st Place Winner, ElevenLabs Hackathon:** As the AI Engineer for a four-person team, co-developed 'Hugo Tour Guide,' an AI travel companion that won first prize. The project provides users with personalized, location-aware travel experiences by planning routes and answering cultural and historical questions on the go.
+- **💡 Architect of 'EZ-Career' at Microsoft AI Agents Hackathon:** Designed and co-developed "EZ-Career," a sophisticated multi-agent autonomous system to fully automate the job application process. The project leveraged a complex architecture with Playwright for browser control and Retrieval-Augmented Generation (RAG) for factual consistency, showcasing a deep dive into practical, real-world agentic workflows.
 - **Enhanced AI Agent Capabilities at TIFIN:** As a Senior Machine Learning Engineer, I enhanced conversational AI agents, fine-tuned open-source models to boost performance while reducing latency, and designed tools to expand agent functionality.
 - **Engineered 10x Training Efficiency:** At Megagon Labs, I boosted model training efficiency by over 10-fold by developing highly efficient (FSDP, LoRA, BF16) pretraining and fine-tuning scripts.
 - **Developed AI Agent for Thousands of Users:** As a Research Assistant at Georgia Tech, I developed and enhanced "Jill Watson," an AI Agent for Adult Learning deployed in multiple schools and used by thousands of users.
@@ -39,7 +39,7 @@ I am proficient with a wide array of tools and technologies across the full MLOp
 
 | **Languages & Core Libraries** |
 | :---: |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> |
 
 | **ML Frameworks & Libraries** |
 | :---: |
@@ -74,7 +74,7 @@ Beyond my professional work, I've designed and built a high-performance homelab 
 | **Motherboard** | ASRock WRX90 WS EVO |
 | **Power Supply** | Seasonic PRIME 1600W 80+ Platinum (ATX 3.0) |
 | **Cooling** | Thermaltake TH420 V2 Ultra ARGB AIO Liquid Cooler |
-| **Chassis** | Fractal Design Meshify 3 XL |
+| **Chassis** | Fractal Design Meshify 2 XL |
 
 #### **Network & Storage Fabric**
 
